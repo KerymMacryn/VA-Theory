@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # <img src="figuras/va_icon.png" width="30"> Teoría del Vacío Absoluto (VA)
 
 ![Simulación Higgs-VA](figuras/higgs_va.png)
@@ -14,3 +15,6 @@ git clone https://github.com/KerymMacryn/VA-Theory.git
 cd VA-Theory/codigo
 pip install -r requirements.txt
 python VA_simulations.py
+=======
+# VA-Theory
+>>>>>>> 26893173a34bef585ae53e443b0964db961ba00d
