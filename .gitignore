@@ -1,0 +1,15 @@
+# Archivos de LaTeX
+*.aux
+*.log
+*.out
+*.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+.env
+venv/
+
+# Mac/Windows
+.DS_Store
+Thumbs.db
