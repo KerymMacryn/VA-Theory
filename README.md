@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 # <img src="figuras/va_icon.png" width="30"> Teoría del Vacío Absoluto (VA)
 
 ![Simulación Higgs-VA](figuras/higgs_va.png)
@@ -18,3 +19,5 @@ python VA_simulations.py
 =======
 # VA-Theory
 
+=======
+>>>>>>> 5ceb45144ccfb5c7d5c92f85cfb03d5c6d9c0186
