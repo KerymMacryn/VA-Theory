@@ -3,7 +3,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-![Higgs-VA Simulation](figuras/higgs_va.png)
+![Higgs-VA Simulation](figuras/Figure_1.png)
 
 ## Summary
 
