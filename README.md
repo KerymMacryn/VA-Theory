@@ -1,5 +1,5 @@
 
-# <img src="figuras/va_icon.png" width="30"> Twistor-Structural Quantum Vacuum Theory (TSQVT)
+# Twistor-Structural Quantum Vacuum Theory (TSQVT)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
