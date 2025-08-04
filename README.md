@@ -9,7 +9,7 @@
 
 **Twistor-Structural Quantum Vacuum Theory (TSQVT)** is a theoretical framework in which spacetime and particle mass are emergent phenomena. The theory posits that geometry is identified with a scalar structural field, $\rho(x)$, whose dynamics originate from a pre-geometric substrate described by a noncommutative twistor algebra.
 
-[cite_start]This approach offers a new perspective on the interplay between inertia, geometry, and quantum dynamics, and provides conceptual solutions to long-standing problems such as the Higgs hierarchy problem and the unification of gravity with the Standard Model interactions [cite: 683-1517].
+- This approach offers a new perspective on the interplay between inertia, geometry, and quantum dynamics, and provides conceptual solutions to long-standing problems such as the Higgs hierarchy problem and the unification of gravity with the Standard Model interactions.
 
 ## Key Publications
 
@@ -26,7 +26,7 @@ This repository contains the numerical code that supports the following publicat
 
 ## About This Repository
 
-[cite_start]This repository contains the Python code used to perform the phenomenological analyses of TSQVT, including the perturbative calculations for the hydrogen atom and the generation of the parameter exclusion plots [cite: 821-831, 1012-1016].
+- This repository contains the Python code used to perform the phenomenological analyses of TSQVT, including the perturbative calculations for the hydrogen atom and the generation of the parameter exclusion plots.
 
 ## 🚀 Installation
 
@@ -46,7 +46,7 @@ The main script performs the calculations and generates the figures. To run an e
 python VA_simulations.py
 ```
 
-[cite_start]This will calculate the energy shifts in the hydrogen atom and reproduce the $(\epsilon, R)$ parameter exclusion plot presented in the publication on the theory's rigorous formulation [cite: 1044-1068].
+- This will calculate the energy shifts in the hydrogen atom and reproduce the $(\epsilon, R)$ parameter exclusion plot presented in the publication on the theory's rigorous formulation.
 
 ## How to Cite
 
